@@ -1,0 +1,229 @@
+{
+  "version": 1,
+  "champions": [
+    {
+      "name": "Kael",
+      "faction": "High Elves",
+      "role": "Magic damage dealer",
+      "archetype": "AoE nuker",
+      "priority_stats": [
+        "Attack",
+        "Critical Rate",
+        "Critical Damage",
+        "Speed",
+        "Accuracy"
+      ],
+      "recommended_artifact_sets": [
+        "Cruel",
+        "Savage",
+        "Lifesteal",
+        "Perception"
+      ],
+      "preferred_substats": [
+        "Speed",
+        "Critical Rate",
+        "Critical Damage",
+        "Accuracy",
+        "Attack"
+      ],
+      "role_notes": "Best used as a consistent damage carry, especially when he can clear multiple enemies efficiently. Prioritize scaling and consistency over pure utility.",
+      "progression_path": "Early to mid game: focus on basic damage scaling, Accuracy, and Speed. Late game: improve crit and sustain depending on team needs."
+    },
+    {
+      "name": "Elhain",
+      "faction": "Sacred Order",
+      "role": "Support / damage dealer",
+      "archetype": "AoE support nuker",
+      "priority_stats": [
+        "Speed",
+        "Attack",
+        "Critical Rate",
+        "Critical Damage",
+        "Accuracy"
+      ],
+      "recommended_artifact_sets": [
+        "Perception",
+        "Cruel",
+        "Lifesteal",
+        "Speed"
+      ],
+      "preferred_substats": [
+        "Speed",
+        "Accuracy",
+        "Critical Rate",
+        "Critical Damage",
+        "Attack"
+      ],
+      "role_notes": "Useful for speed and team support while still contributing damage. Build for synergy if she is used as a utility nuker or speed support.",
+      "progression_path": "Prioritize Speed and Accuracy early. Add damage scaling after core utility is established."
+    },
+    {
+      "name": "Galek",
+      "faction": "Barbarians",
+      "role": "Single-target damage dealer",
+      "archetype": "Finisher",
+      "priority_stats": [
+        "Attack",
+        "Critical Rate",
+        "Critical Damage",
+        "Speed",
+        "Accuracy"
+      ],
+      "recommended_artifact_sets": [
+        "Cruel",
+        "Savage",
+        "Lifesteal",
+        "Speed"
+      ],
+      "preferred_substats": [
+        "Speed",
+        "Critical Rate",
+        "Critical Damage",
+        "Accuracy",
+        "Attack"
+      ],
+      "role_notes": "Strong burst-focused attacker; works well when the build emphasizes consistent turns and damage output.",
+      "progression_path": "Early progression should focus on Speed and Attack. Later adjustments depend on whether he is used as a finisher or a more general damage carry."
+    },
+    {
+      "name": "Astar",
+      "faction": "Undead Hordes",
+      "role": "Support / debuffer",
+      "archetype": "Control / utility",
+      "priority_stats": [
+        "Speed",
+        "Accuracy",
+        "HP",
+        "Defense",
+        "Support utility"
+      ],
+      "recommended_artifact_sets": [
+        "Perception",
+        "Speed",
+        "Guardian",
+        "Regeneration"
+      ],
+      "preferred_substats": [
+        "Speed",
+        "Accuracy",
+        "HP",
+        "Defense",
+        "Resistance"
+      ],
+      "role_notes": "If used for utility and control, prioritize Speed and Accuracy before raw damage. Sustain and team setup matter more than burst.",
+      "progression_path": "Build for consistent turn order and utility first, then add survivability and team support."
+    },
+    {
+      "name": "Myrmid",
+      "faction": "The Sacred Order",
+      "role": "Tank / sustain",
+      "archetype": "Frontline defender",
+      "priority_stats": [
+        "HP",
+        "Defense",
+        "Speed",
+        "Resistance",
+        "Sustain"
+      ],
+      "recommended_artifact_sets": [
+        "Guardian",
+        "Shield",
+        "Defense",
+        "Regeneration"
+      ],
+      "preferred_substats": [
+        "HP",
+        "Defense",
+        "Speed",
+        "Resistance",
+        "Accuracy"
+      ],
+      "role_notes": "Tanks should favor survivability and battlefield control. Attack should be a secondary concern unless the champion has a strong offense role.",
+      "progression_path": "Prioritize durability and proper turn order. Upgrade offense later only if the champion is expected to contribute meaningful damage."
+    },
+    {
+      "name": "Frosty",
+      "faction": "Banner Lords",
+      "role": "Support / control",
+      "archetype": "Crowd control",
+      "priority_stats": [
+        "Speed",
+        "Accuracy",
+        "HP",
+        "Defense",
+        "Support utility"
+      ],
+      "recommended_artifact_sets": [
+        "Perception",
+        "Speed",
+        "Guardian",
+        "Regeneration"
+      ],
+      "preferred_substats": [
+        "Speed",
+        "Accuracy",
+        "HP",
+        "Defense",
+        "Resistance"
+      ],
+      "role_notes": "Control champions need to act early and land important debuffs. A stable speed and accuracy build is more valuable than raw offense.",
+      "progression_path": "Focus on preventing enemies from acting rather than maximizing DPS. Build for team utility first."
+    },
+    {
+      "name": "Sicia",
+      "faction": "Dark Elves",
+      "role": "Support / attacker",
+      "archetype": "Hybrid utility",
+      "priority_stats": [
+        "Speed",
+        "Attack",
+        "Critical Rate",
+        "Critical Damage",
+        "Accuracy"
+      ],
+      "recommended_artifact_sets": [
+        "Perception",
+        "Cruel",
+        "Lifesteal",
+        "Speed"
+      ],
+      "preferred_substats": [
+        "Speed",
+        "Accuracy",
+        "Critical Rate",
+        "Attack",
+        "Critical Damage"
+      ],
+      "role_notes": "Hybrid champions need a balanced build. Prioritize whichever stat helps them maintain both function and output in their team role.",
+      "progression_path": "Build a hybrid route where utility wins early, then add offense once the champion can safely fulfill their core role."
+    },
+    {
+      "name": "Warlord",
+      "faction": "Barbarians",
+      "role": "Damage dealer / sustain",
+      "archetype": "Bruiser",
+      "priority_stats": [
+        "Attack",
+        "HP",
+        "Defense",
+        "Critical Damage",
+        "Speed"
+      ],
+      "recommended_artifact_sets": [
+        "Savage",
+        "Cruel",
+        "Guardian",
+        "Lifesteal"
+      ],
+      "preferred_substats": [
+        "Attack",
+        "HP",
+        "Critical Damage",
+        "Speed",
+        "Defense"
+      ],
+      "role_notes": "Bruiser champions usually need durability and output. The best build is one that preserves offensive pressure without losing survivability.",
+      "progression_path": "Upgrade survivability first, then increase attack and critical output to convert that durability into stronger offense."
+    }
+  ]
+}
